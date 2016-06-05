@@ -1,0 +1,22 @@
+20
+25 PSG
+21 Monaco
+19 Lyonnais
+14 OGC Nice
+15 Saint-Etienne
+16 Lille
+14 Stade Rennais
+11 Angers
+10 Caen
+15 Nantes
+14 Lorient
+13 Bastia
+19 Bordeaux
+11 Guingamp
+21 Marseille
+16 Montpellier
+14 Stade de Reims
+11 Ajaccio
+13 Tolouse
+10 Troyes
+ 

@@ -1,0 +1,19 @@
+18
+25 Bayern Munchen
+23 Borussia Dortmund
+15 Hertha Berlin
+20 Schalke
+19 Borussia M
+20 Bayer Leverkusen
+12 Mainz
+18 Wolfsburg
+12 Koln
+10 Ingolstadt
+17 Stuttgart
+16 Hamburger
+11 Darmstadt
+14 Werder Bremen
+13 Augsburg
+13 Hoffenheim
+11 Eintracht Frank
+15 Hannover

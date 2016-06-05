@@ -1,0 +1,21 @@
+20
+20 Leicester City
+21 Tottenham
+24 Arsenal
+24 Manchester City
+19 West Ham
+23 Manchester United
+19 Southampton
+16 Stoke City
+22 Liverpool
+24 Chelsea
+11 West Brom
+18 Everton
+10 Bournemouth
+15 Watford
+13 Swansea
+12 Crystal Palace
+10 Norwich
+11 Sunderland
+14 Newcastle
+13 Aston Villa

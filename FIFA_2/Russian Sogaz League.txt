@@ -1,0 +1,17 @@
+16
+14 Rostov
+20 CSKA
+21 Zenit
+17 Krasnodar
+17 Lokomotiv
+11 Terek
+15 Spartak
+10 Ural
+13 Rubin
+10 Amkar
+12 Krylia Sovetov
+14 Dynamo M
+10 Ufa
+14 Kuban
+11 Mordovia
+13 Anji

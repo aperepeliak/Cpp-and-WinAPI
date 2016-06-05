@@ -1,0 +1,17 @@
+16
+21 Dynamo Kyiv
+20 Shakhtar Donetsk
+15 Zorya Lugansk
+17 Dnipro
+15 Vorskla
+13 Alexandria
+14 Karpathy
+13 Stahl
+12 Olympic
+15 Metallist
+11 Hoverla
+13 Chernomorets
+12 Volyn
+10 Metallurg Z
+10 Zirka
+10 Obolon

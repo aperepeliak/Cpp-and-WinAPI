@@ -1,0 +1,21 @@
+20
+25 Juventus
+22 Napoli
+23 Roma
+19 Inter
+17 Fiorentina
+20 Milan
+12 Sassuolo
+11 Chievo
+20 Lazio
+14 Genoa
+13 Torino
+10 Empoli
+13 Atalanta
+15 Udinese
+14 Sampdoria
+15 Bolonge
+10 Carpi
+14 Parma
+13 Palermo
+11 Verona

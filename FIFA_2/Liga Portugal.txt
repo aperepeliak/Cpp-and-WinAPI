@@ -1,0 +1,19 @@
+18
+20 Benfica
+18 Sporting
+21 Porto
+15 Braga
+13 Arouca
+14 Rio Ave
+11 Ferreira
+12 Estoril
+11 Nacional
+13 Belenenses
+15 Vitoria SC
+11 Maritimo
+10 Vitoria FC
+10 Moreirense
+14 Boavista
+11 Madeira
+10 Academica
+10 Tondela

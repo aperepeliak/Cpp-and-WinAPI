@@ -1,0 +1,21 @@
+20
+25 Barcelona
+23 Atletico Madrid
+24 Real Madrid
+17 Villarreal
+15 Celta de Vigo
+20 Sevilla
+14 Athletic Club
+13 Malaga
+10 Eibar
+11 Deportivo
+15 Real Sociedad
+14 Espanyol
+13 Real Betis
+19 Valencia
+11 Las Palmas
+14 Rayo Vallecano
+13 Granada
+12 Getafe
+10 Sporting Gijon
+11 Levante
